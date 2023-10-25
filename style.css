@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+   width: 100vw;
+}
+.section-1 {
+    width: 100vw;
+}
+.section-1 img{
+width: 100%;
+object-fit: fill;
+}
+.section-1 h1{
+position: absolute;
+left: 15rem;
+top: 10rem;
+font-size: 4rem;
+font-weight: bolder;
+padding: 250px 250px ;
+}
+.section-1 p-1{
+    position: absolute;
+    left: 0.5rem;
+    top: 0.5rem;
+    padding: 0 0.75rem;
+}
+.section-1 p-2{
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+    padding: 0 0.75rem;
+}
+.section-1 p-3{
+    position: absolute;
+    left: 0.5rem;
+    top: 58rem;
+    padding: 0 0.75rem;
+}
+.section-1 p-4{
+    position: absolute;
+    right: 0.5rem;
+    top: 58rem;
+    padding: 0 0.75rem;
+}
+.text{
+    color: #EBFF6D;
+}
+.section-2 {
+    display: flex;
+    padding: 5rem 15rem;
+    background-color: #101208;
+}
+.section-2 img{
+    height: 400px;
+    width: 300px;
+}
+.letter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    padding: 5rem;
+    color: #EBFF6D;
+}
+.section-2 P-1{
+    position: relative;
+    left: 8rem;
+    bottom: 2.5rem;
+    color: #EBFF6D;
+    font-size: small;
+    font-weight: 100;
+}
+.section-2 p-3{
+    color: #EBFF6D;
+    position: relative;
+    left: 43rem;
+    top: 3.5rem;
+}
+.section-2 p-2{
+    color: #EBFF6D;
+    position: relative;
+    right: 23rem;
+    top: 3.5rem;
+}
